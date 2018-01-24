@@ -1,0 +1,10 @@
+{
+	"Seti_accent": true,
+	"color_scheme": "Packages/Seti_UX/Seti.tmTheme",
+	"font_face": "Iosevka",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Seti_orig.sublime-theme"
+}
